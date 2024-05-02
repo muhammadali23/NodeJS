@@ -28,3 +28,6 @@ const fs = require("fs");
 // to add data but it not overwrite the existing data
 
 fs.appendFileSync("./test.txt", "\nthis is second line");
+
+const os = require("os");
+console.log(os.cpus().length);
