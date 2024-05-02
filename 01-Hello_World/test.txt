@@ -1,0 +1,6 @@
+this is using writefile method2
+this is second line
+this is second line
+this is second line
+this is second line
+this is second line
