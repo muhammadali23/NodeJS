@@ -1,5 +1,2 @@
-1714646577669, / : new request recevied
-1714646587180, /about : new request recevied
-1714646595734, /contact-us : new request recevied
-1714646647059, /about : new request recevied
-1714646669740, /about?myName=MuhammadALI : new request recevied
+1714716375329,GET, / : new request recevied
+1714716383213,GET, /signup : new request recevied
